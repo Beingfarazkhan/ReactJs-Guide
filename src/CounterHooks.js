@@ -11,3 +11,4 @@ export default function CounterHooks({ initialCount }) {
     </div>
   );
 }
+// Functional Components are much more popular than Class Components because of hooks
